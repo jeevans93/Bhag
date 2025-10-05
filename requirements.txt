@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langchain-community
+langgraph
+python-dotenv
+firebase-admin
+requests
